@@ -1,0 +1,41 @@
+1611032243479	geckodriver	INFO	Listening on 127.0.0.1:50708
+1611032246770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileTzzbnA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611032251178	Marionette	INFO	Listening on port 50743
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611032251531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611032251588	Marionette	ERROR	[17] No reply from Marionette:Register
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected dev[GFX1-]: GFX: D3D11 skip BeginFrame with device-removed.
+ice reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611058031504	Marionette	INFO	Stopped listening on port 50743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

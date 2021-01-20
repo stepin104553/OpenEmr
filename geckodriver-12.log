@@ -1,0 +1,13 @@
+1611032286205	geckodriver	INFO	Listening on 127.0.0.1:50917
+1611032289199	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileQaZFKp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611032294048	Marionette	INFO	Listening on port 50925
+1611032294469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611032294556	Marionette	ERROR	[21] No reply from Marionette:Register
+1611032299772	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611032300132	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611032300824	Marionette	INFO	Stopped listening on port 50925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
